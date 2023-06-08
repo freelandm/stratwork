@@ -1,1 +1,1 @@
-CCXT Strategy Framework
+StratWork (CCXT Strategy Framework)

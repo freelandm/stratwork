@@ -1,0 +1,2 @@
+class OrderbookMissingOrdersException(Exception):
+    pass

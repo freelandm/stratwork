@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "stratwork"
+version = "0.1.0"
+description = ""
+authors = ["Matt Freeland <mattfreeland78@gmail.com>"]
+packages = [{include = "stratwork"}]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ruff = "^0.0.272"
+ccxt = "^3.1.31"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

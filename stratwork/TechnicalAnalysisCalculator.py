@@ -11,10 +11,6 @@ class TechnicalAnalysisCalculator:
         pass
     
     @staticmethod
-    def ema(items):
-        pass
-
-    @staticmethod
     def sma(items):
         if len(items) == 0:
             return None

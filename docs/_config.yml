@@ -1,0 +1,54 @@
+title: StratWork
+description: A comprehensive cryptocurrency trading framework built on CCXT
+url: "https://yourusername.github.io"
+baseurl: "/stratwork"
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+header_pages:
+  - getting-started.md
+  - api-reference.md
+  - examples.md
+  - configuration.md
+  - best-practices.md
+
+# GitHub
+github:
+  repository_url: https://github.com/yourusername/stratwork
+
+# Author
+author:
+  name: Matt Freeland
+  email: mattfreeland78@gmail.com
+
+# Social
+social:
+  - { platform: github, user_url: "https://github.com/yourusername" }
+
+# Build settings
+exclude:
+  - vendor/
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - package.json 

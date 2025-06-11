@@ -1,6 +1,6 @@
 title: StratWork
 description: A comprehensive cryptocurrency trading framework built on CCXT
-url: "https://yourusername.github.io"
+url: "https://freelandm.github.io"
 baseurl: "/stratwork"
 
 # Theme
@@ -30,7 +30,7 @@ header_pages:
 
 # GitHub
 github:
-  repository_url: https://github.com/yourusername/stratwork
+  repository_url: https://github.com/freelandm/stratwork
 
 # Author
 author:
@@ -39,7 +39,7 @@ author:
 
 # Social
 social:
-  - { platform: github, user_url: "https://github.com/yourusername" }
+  - { platform: github, user_url: "https://github.com/freelandm" }
 
 # Build settings
 exclude:

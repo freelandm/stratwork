@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-^3.11-blue.svg)](https://www.python.org/)
 [![Poetry](https://img.shields.io/badge/poetry-dependency%20management-blue.svg)](https://python-poetry.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://yourusername.github.io/stratwork)
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue.svg)](https://freelandm.github.io/stratwork)
 
 ## Overview
 
@@ -25,7 +25,7 @@ StratWork is a comprehensive trading framework designed to simplify the developm
 ### Using Poetry (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/stratwork.git
+git clone https://github.com/freelandm/stratwork.git
 cd stratwork
 poetry install
 ```
@@ -33,7 +33,7 @@ poetry install
 ### Using pip
 
 ```bash
-git clone https://github.com/yourusername/stratwork.git
+git clone https://github.com/freelandm/stratwork.git
 cd stratwork
 pip install -e .
 ```
@@ -117,7 +117,7 @@ poetry run pytest
 
 ## Documentation
 
-Full documentation is available at [https://yourusername.github.io/stratwork](https://yourusername.github.io/stratwork)
+Full documentation is available at [https://freelandm.github.io/stratwork](https://freelandm.github.io/stratwork)
 
 ## Contributing
 
@@ -148,11 +148,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📖 [Documentation](https://yourusername.github.io/stratwork)
-- 🐛 [Issue Tracker](https://github.com/yourusername/stratwork/issues)
-- 💬 [Discussions](https://github.com/yourusername/stratwork/discussions)
+- 📖 [Documentation](https://freelandm.github.io/stratwork)
+- 🐛 [Issue Tracker](https://github.com/freelandm/stratwork/issues)
+- 💬 [Discussions](https://github.com/freelandm/stratwork/discussions)
 
 ---
 
-Made with ❤️ by [Matt Freeland](https://github.com/yourusername)
+Made with ❤️ by [Matt Freeland](https://github.com/freelandm)
 
